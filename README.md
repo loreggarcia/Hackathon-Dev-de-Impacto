@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="./docs/assets/logo_com_fundo_sem_letra.jpg" alt="Lar Justo" width="600">
+  <img src="./docs/assets/logo_com_fundo_sem_letra-convertido-de-jpg.png" alt="Lar Justo" width="600">
 </p>
 <p align="center"><i>Representante digital do cidadão vulnerável</i></p>
 
