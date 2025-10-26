@@ -36,22 +36,22 @@ Apesar da existência de políticas públicas e programas de habitação, a comu
 | 🧱 **Falta de orientação** | Não há suporte contínuo entre o recebimento da notificação e a solução. | Processos parados e perda de prazos.| 
 | 💻 **Baixo letramento digital** | Dificuldade de usar plataformas públicas online. | Acesso desigual aos serviços do Estado. | 
 | ⚖️ **Ausência de apoio jurídico acessível** | A Defensoria não consegue atender toda a demanda. | Desamparo e judicialização tardia.|
-| 🧩 Burocracia fragmentada | Informações e programas não se comunicam entre si. | Repetição de etapas e perda de confiança.|
-| 🔕 Falta de acompanhamento | O cidadão não sabe se seu pedido foi aceito ou rejeitado. | Desmotivação e abandono do processo.|
+| 🧩 **Burocracia fragmentada** | Informações e programas não se comunicam entre si. | Repetição de etapas e perda de confiança.|
+| 🔕 **Falta de acompanhamento** | O cidadão não sabe se seu pedido foi aceito ou rejeitado. | Desmotivação e abandono do processo.|
 ---
 
 ## Causa raiz 
 &emsp;A **causa central do problema está na ruptura entre cidadania e acesso à informação pública**. O sistema atual foi desenhado para quem já entende o funcionamento burocrático e jurídico, o que exclui os mais vulneráveis. As causas estruturais identificadas são:
 
-- Linguagem jurídica inacessível — o cidadão não compreende o que lê.
+- Linguagem jurídica inacessível - o cidadão não compreende o que lê.
 
-- Processos desconectados — falta de interoperabilidade entre órgãos.
+- Processos desconectados - falta de interoperabilidade entre órgãos.
 
 - Baixo letramento digital e informacional.
 
 - Inexistência de canais empáticos que acompanhem o usuário até o fim.
 
-- Desigualdade tecnológica — ausência de infraestrutura digital nas periferias.
+- Desigualdade tecnológica - ausência de infraestrutura digital nas periferias.
 
 &emsp;Em síntese, o problema não é apenas falta de moradia, mas **falta de acompanhamento humano e tecnológico.**
 
@@ -71,6 +71,22 @@ Apesar da existência de políticas públicas e programas de habitação, a comu
 
 - **Exclusão digital e informacional**, onde a tecnologia, em vez de incluir, aumenta o abismo social.
 
-&emsp;O Lar Justo propõe quebrar esse ciclo: transformar a burocracia em linguagem humana e garantir que nenhum cidadão perca sua casa sem entender o processo — nem sem alguém (mesmo que uma IA) ao seu lado.
+&emsp;O Lar Justo propõe quebrar esse ciclo: **transformar a burocracia em linguagem humana** e **garantir que nenhum cidadão perca sua casa sem entender o processo** - nem sem alguém (mesmo que uma IA) ao seu lado.
 
 ---
+
+## Referências
+
+- FUNDAÇÃO GETÚLIO VARGAS (FGV). Déficit habitacional brasileiro: diagnóstico e projeções 2023–2030. Rio de Janeiro: Núcleo de Estudos Urbanos da FGV, 2023.
+
+- CAMPANHA DESPEJO ZERO. Relatório nacional de despejos e remoções no Brasil. Brasília: Observatório de Direito à Moradia, 2024.
+
+- INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). Síntese de indicadores sociais: população em áreas de risco e vulnerabilidade habitacional. Rio de Janeiro: IBGE, 2022.
+
+- BRASIL. MINISTÉRIO DAS CIDADES. Plano Nacional de Habitação (PLANHAB) e Programa Minha Casa, Minha Vida – Faixas 1 e 1,5. Brasília: Ministério das Cidades, 2024.
+
+- DEFENSORIA PÚBLICA DA UNIÃO (DPU). Boletim de atuação em casos de despejo coletivo. Brasília: DPU, 2023.
+
+- ASHOKA; APPLYBRASIL. Inteligência artificial e acesso a direitos: barreiras digitais e inclusão cívica no Brasil. São Paulo: Ashoka/ApplyBrasil, 2025.
+
+- LAR JUSTO. Documentação interna do projeto: Hackathon Devs de Impacto 2025 – Contexto e Problema, Pesquisa de Mercado, Personas e Resumo da Solução. São Paulo, 2025.
