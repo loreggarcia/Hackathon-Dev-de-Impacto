@@ -1,4 +1,4 @@
-# Público alvo 
+# Arquitetura da solução
 
 ## Contexto 
 <!-- Explique o contexto da sessão -->
